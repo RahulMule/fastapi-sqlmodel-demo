@@ -20,7 +20,7 @@ A simple REST API to manage games using **FastAPI**, **SQLModel**, and **Postgre
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-sqlmodel-demo.git
+git clone https://github.com/RahulMule/fastapi-sqlmodel-demo
 cd fastapi-sqlmodel-demo
 ```
 
